@@ -1,1 +1,3 @@
 I like the idea of sharing code and some how backing it up
+
+to share functional commits not experimental commits. 
