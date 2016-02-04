@@ -1,0 +1,9 @@
+FC or diff are great tools for typos
+
+multiple commits help when it is not
+easy to determine where the bug and
+combine it with diff/FC adds experience
+
+git adds a safety net to my projects where
+it feels like I can jump from an airplane hoping to fly
+and I can repeat it again and again

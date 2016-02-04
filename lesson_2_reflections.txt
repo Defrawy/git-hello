@@ -1,0 +1,12 @@
+generally git commands are straightforward and convenient to use.
+However, it requires deep understanding to make most of it.
+
+Staging allows to grouping files as a unit and review them before committing
+
+Branching adds high flexibility to take more bold steps which very appropriate
+for experimental features.
+
+Merging is great feature but requires requires deep understanding for the project
+first before using it. However, I think to fully automated merging is to write
+independent code where branch does not change to base code like adding a new feature
+other than that manual merging is more appropriate. 
